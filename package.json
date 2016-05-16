@@ -1,0 +1,11 @@
+{
+  "name": "uk-locations",
+  "version": "1.0.0",
+  "description": "UK location data, taken from Wikipedia",
+  "keywords": [
+    "uk",
+    "location"
+  ],
+  "author": "Bala Clark",
+  "license": "ISC"
+}
